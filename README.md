@@ -5,6 +5,8 @@ TruthLens is an open-source web application that detects hallucinations in AI-ge
 
 > Built for the **Safety & Trust** track of the [Gemma 4 Good Hackathon](https://kaggle.com/competitions/gemma-4-good-hackathon) on Kaggle.
 
+Live Demo Link: [Demo](https://huggingface.co/spaces/Praveena0302/truthlens)
+
 ---
 
 ## ✨ Features
