@@ -292,7 +292,7 @@ MIT License — free to use, modify, and distribute.
 - [Google Gemma](https://ai.google.dev/gemma) — open model family
 - [Ollama](https://ollama.com) — local model runtime
 - [FastAPI](https://fastapi.tiangolo.com) — Python web framework
-- [Kaggle](https://kaggle.com) — Gemma 4 Good Hackathon platform
+- [Kaggle](https://www.kaggle.com/competitions/gemma-4-good-hackathon) — Gemma 4 Good Hackathon platform
 
 ---
 
